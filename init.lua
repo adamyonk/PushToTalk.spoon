@@ -1,7 +1,7 @@
 --- === PushToTalk ===
 ---
---- While the mic is hot, holding ⌥ will mute, while muted, opposite
---- Double-tapping ⌥ will toggle muted/hot and show a notification
+--- While the mic is hot, holding fn will mute, while muted, opposite
+--- Double-tapping fn will toggle muted/hot and show a notification
 
 local obj = {}
 obj.__index = obj
