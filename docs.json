@@ -1,0 +1,41 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "type" : "Module",
+    "Deprecated" : [
+
+    ],
+    "desc" : "While the mic is hot, holding ⌥ will mute, while muted, opposite",
+    "Constructor" : [
+
+    ],
+    "doc" : "While the mic is hot, holding ⌥ will mute, while muted, opposite\nDouble-tapping ⌥ will toggle muted\/hot and show a notification",
+    "Field" : [
+
+    ],
+    "Command" : [
+
+    ],
+    "items" : [
+
+    ],
+    "Method" : [
+
+    ],
+    "name" : "PushToTalk"
+  }
+]
