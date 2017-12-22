@@ -16,24 +16,24 @@
 
     ],
     "type" : "Module",
+    "desc" : "While the mic is hot, holding fn will mute, while muted, opposite",
     "Deprecated" : [
 
     ],
-    "desc" : "While the mic is hot, holding fn will mute, while muted, opposite",
     "Constructor" : [
 
     ],
-    "doc" : "While the mic is hot, holding fn will mute, while muted, opposite\nDouble-tapping fn will toggle muted\/hot and show a notification",
     "Field" : [
 
     ],
-    "Command" : [
+    "Method" : [
 
     ],
+    "doc" : "While the mic is hot, holding fn will mute, while muted, opposite\nDouble-tapping fn will toggle muted\/hot and show a notification",
     "items" : [
 
     ],
-    "Method" : [
+    "Command" : [
 
     ],
     "name" : "PushToTalk"

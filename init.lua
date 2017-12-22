@@ -69,8 +69,6 @@ function obj:init()
   end
 
   self.functionKey = hs.eventtap.new({hs.eventtap.event.types.flagsChanged}, functionHandler)
-  -- It seems that obj:start() isn't always called? ¯\_(ツ)_/¯
-  self.functionKey:start()
 end
 
 function obj:start()
